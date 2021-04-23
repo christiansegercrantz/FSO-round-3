@@ -1,0 +1,28 @@
+{
+  "name": "full-stack-part-3",
+  "version": "1.0.0",
+  "description": "Full stack open corse part 3\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[-",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiansegercrantz/FSO-round-3.git"
+  },
+  "author": "Christian Segercrantz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiansegercrantz/FSO-round-3/issues"
+  },
+  "homepage": "https://github.com/christiansegercrantz/FSO-round-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
