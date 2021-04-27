@@ -21,3 +21,28 @@ Content-Type: application/json
 { 
   "name": "Arto Hellas"
 }
+###
+POST https://sleepy-wildwood-21922.herokuapp.com/api/persons
+Content-Type: application/json
+
+{ 
+  "name": "Arto Hellas",
+  "number": "040-123456" 
+}
+
+###
+POST https://sleepy-wildwood-21922.herokuapp.com/api/persons
+Content-Type: application/json
+
+{ 
+  "number": "040-123456" 
+}
+
+###
+POST https://sleepy-wildwood-21922.herokuapp.com/api/persons
+Content-Type: application/json
+
+{ 
+  "name": "Arto Hellas"
+}
+###
